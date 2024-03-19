@@ -262,6 +262,13 @@
         function showHideSettings(id) {
             var $secure = $('#secure');
             var $auth   = $('#auth');
+            var $alias = $('#aliasOnly');
+
+            if($alias.prop('checked')) {
+                $('.col-aliasPattern').show();
+            } else {
+                $('.col-aliasPattern').hide();
+            }
 
             if ($secure.prop('checked')) {
                 $('.col-certPublic').show();
@@ -789,11 +796,22 @@
                 </div>
             </div>
             <div class="row">
-                <div class="input-field col s8 m10 l10">
+                <div class="input-field col s12 m6 l2">
                     <input class="value" id="aliasOnly" type="checkbox" />
                     <label class="translate" for="aliasOnly">AliasOnly</label>
                 </div>
+                <div class="input-field col s12 m6 l2 col-aliasPattern">
+                    <input class="value" id="aliasPattern" type="text" >
+                    <label class="translate" for="aliasPattern">AliasPattern</label>
+                </div>
             </div>
+            <div class="row">
+                <div class="input-field col s8 m10 l10">
+                    <input class="value" id="ignoreCustomIds" type="checkbox" />
+                    <label class="translate" for="ignoreCustomIds">IgnoreCustomIds</label>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="input-field col s8 m10 l10">
                     <input class="value" id="blindsInvert" type="checkbox" />
