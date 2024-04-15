@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(exclusivo para um tipo de entidade)",
     "Additional Attributes": "Atributos Adicionais",
-    "AliasOnly": "Gerar automaticamente dispositivos apenas a partir do alias.0. *",
+    "blindsDontCreatePositionInputNumber":"Não gerencie entidades de número de entrada_passados para posição do obturador",
+    "AliasOnly": "Gerar dispositivos de IDs iniciando o padrão speicifed",
+    "AliasPattern": "Gerar automaticamente dispositivos para IDs com o seguinte início (alias.0. se vazio)",
+    "IgnoreCustomIds": "Não gerar automaticamente dispositivos de IDs que tenham configurações personalizadas",
     "Allow only when User is Owner:": "Permitir apenas quando o usuário for proprietário:",
     "Assumed state (creates two buttons instead of slider)": "Estado assumido (cria dois botões em vez de controle deslizante)",
     "Authentication": "Autenticação",

@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(unico per un tipo di entità)",
     "Additional Attributes": "Attributi aggiuntivi",
-    "AliasOnly": "Generazione automatica dei dispositivi solo da alias.0. *",
+    "blindsDontCreatePositionInputNumber":"Non generare entità input_number legacy per posizione di scatto",
+    "AliasOnly": "Auto genera dispositivi da ID che iniziano il modello speicifed",
+    "AliasPattern": "Auto genera dispositivi per ID con il seguente inizio (alias.0. se vuoto)",
+    "IgnoreCustomIds": "Non generare automaticamente dispositivi da ID che hanno impostazioni personalizzate",
     "Allow only when User is Owner:": "Consenti solo quando l'utente è proprietario:",
     "Assumed state (creates two buttons instead of slider)": "Stato presunto (crea due pulsanti invece del cursore)",
     "Authentication": "Autenticazione",

@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(eindeutig für einen Entitätstyp)",
     "Additional Attributes": "Zusätzliche Attribute",
-    "AliasOnly": "Automatische Generierung von Geräten nur aus Alias.0. *",
+    "blindsDontCreatePositionInputNumber":"Keine Input_number Geräte für Rollladen Position erzeugen",
+    "AliasOnly": "Autmatische Geräteerzeugung nur für IDs mit spezifiziertem Anfang",
+    "AliasPattern": "Geäte für IDs mit folgendem Anfang generieren (alias.0. wenn leer)",
+    "IgnoreCustomIds": "Keine autmatische Gerätegenerierungvon IDs, die benutzerdefinierte Lovelace-Einstellungen haben",
     "Allow only when User is Owner:": "Nur erlauben wenn Anwender auch Besitzer ist:",
     "Assumed state (creates two buttons instead of slider)": "Unsicherer Zustand (erstellt zwei Schaltflächen anstelle eines Schiebereglers)",
     "Authentication": "Authentifizierung",

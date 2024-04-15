@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(唯一的一个实体的类型)",
     "Additional Attributes": "附加属性",
-    "AliasOnly": "仅从alias.0。*自动生成设备",
+    "blindsDontCreatePositionInputNumber":"不要为百叶窗位置生成遗留输入_ 数量实体",
+    "AliasOnly": "启动 speicifed 模式的 ID 自动生成设备",
+    "AliasPattern": "以下列起始方式自动生成ID设备( 如为空)",
+    "IgnoreCustomIds": "不要从自定义设置的ID中自动生成设备",
     "Allow only when User is Owner:": "允许只有当用户的所有者：",
     "Assumed state (creates two buttons instead of slider)": "假定状态（创建两个按钮而不是滑块）",
     "Authentication": "身份验证",

@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(unikalny dla jednego typu jednostki)",
     "Additional Attributes": "Dodatkowe atrybuty",
-    "AliasOnly": "Automatyczne generowanie urządzeń tylko z aliasu. 0. *",
+    "blindsDontCreatePositionInputNumber":"Nie generuj dotychczasowych jednostek wejściowych _ number dla pozycji migawki",
+    "AliasOnly": "Automatycznie generuje urządzenia z identyfikatorów uruchamiających wzór speicifed",
+    "AliasPattern": "Automatycznie generować urządzenia dla identyfikatorów z następującym startem (alias.0. jeśli puste)",
+    "IgnoreCustomIds": "Nie generuj automatycznie urządzeń z identyfikatorów, które mają własne ustawienia",
     "Allow only when User is Owner:": "Pozwól tylko wtedy, gdy użytkownik jest właścicielem:",
     "Assumed state (creates two buttons instead of slider)": "Stan przyjęty (tworzy dwa przyciski zamiast suwaka)",
     "Authentication": "Uwierzytelnianie",

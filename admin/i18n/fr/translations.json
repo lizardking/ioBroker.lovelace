@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(unique pour un type d'entité)",
     "Additional Attributes": "Attributs supplémentaires",
-    "AliasOnly": "Génération automatique de périphériques à partir d'alias.0. * Uniquement",
+    "blindsDontCreatePositionInputNumber":"Ne génère pas d'entités d'entrée_nombre héritées pour la position de l'obturateur",
+    "AliasOnly": "Générer automatiquement des périphériques à partir d'IDs en commençant le motif speicifé ",
+    "AliasPattern": "Générer automatiquement des périphériques pour les ID avec le démarrage suivant (alias.0. si vide)",
+    "IgnoreCustomIds": "Ne pas générer automatiquement des périphériques à partir d'ID ayant des paramètres personnalisés",
     "Allow only when User is Owner:": "Autoriser uniquement lorsque l'utilisateur est propriétaire:",
     "Assumed state (creates two buttons instead of slider)": "État présumé (crée deux boutons au lieu d'un curseur)",
     "Authentication": "Authentification",

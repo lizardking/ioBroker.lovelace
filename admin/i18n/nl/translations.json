@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(uniek voor één entiteitstype)",
     "Additional Attributes": "Extra attributen",
-    "AliasOnly": "Apparaten automatisch genereren vanaf alias.0. * Alleen",
+    "blindsDontCreatePositionInputNumber":"Genereer geen legacy input_number entiteiten voor sluiter positie",
+    "AliasOnly": "Automatisch apparaten genereren vanaf ID's die het specified patroon starten",
+    "AliasPattern": "Automatisch apparaten genereren voor ID's met de volgende start (alias.0. indien leeg)",
+    "IgnoreCustomIds": "Niet automatisch apparaten genereren van ID's die aangepaste instellingen hebben",
     "Allow only when User is Owner:": "Alleen toestaan ​​als gebruiker eigenaar is:",
     "Assumed state (creates two buttons instead of slider)": "Veronderstelde staat (creëert twee knoppen in plaats van schuifregelaar)",
     "Authentication": "authenticatie",

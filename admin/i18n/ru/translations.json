@@ -1,7 +1,10 @@
 {
     "(unique for one entity type)": "(уникально для одного типа объекта)",
     "Additional Attributes": "Дополнительные атрибуты",
-    "AliasOnly": "Автоматически генерировать устройства только из псевдонима 0. *",
+    "blindsDontCreatePositionInputNumber":"Не создавать устаревшие устройства ввода_нумерации для затвора",
+    "AliasOnly": "Авто генерирует устройства из идентификаторов, начинающих пряникированную модель",
+    "AliasPattern": "Автогенерирующие устройства для идентификации со следующим запуском (alias.0. если пустой)",
+    "IgnoreCustomIds": "Не автогенерируйте устройства из ID, которые имеют пользовательские настройки",
     "Allow only when User is Owner:": "Allow only when User is Owner:",
     "Assumed state (creates two buttons instead of slider)": "Предполагаемое состояние (вместо ползунка создает две кнопки)",
     "Authentication": "Аутентификация",
