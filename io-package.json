@@ -274,6 +274,7 @@
     "aliasPattern": "alias.0.",
     "ignoreCustomIds": false,
     "blindsInvert": false,
+    "blindsDontCreatePositionInputNumber":false,
     "alarmCheckCodeOnDisarmOnly": false,
     "language": "",
     "updateTimeout": 5000,
