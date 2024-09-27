@@ -267,7 +267,8 @@
         "order": 6,
         "localLink": true
       }
-    ]
+    ],
+    "installedFrom": "lizardking.lovelace@4.1.10"
   },
   "native": {
     "history": "",
