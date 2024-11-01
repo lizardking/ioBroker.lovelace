@@ -1,6 +1,6 @@
 # Modifizierte ioBroker.lovelace Variante
 
-## lovelace adapter for ioBroker
+## Änderungen
 Diese Variante enthält folgende Anpassungen und Änderungen (ev. ist die Liste nicht komplett):
 
 * Zusätzliche Optionen in der Adapterconfig zum Einschränken des Bereichs für die automatische Devicegenerierung.
