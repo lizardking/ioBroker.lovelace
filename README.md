@@ -1,13 +1,12 @@
-![Logo](admin/lovelace.png)
-# ioBroker.lovelace
+# Modifizierte ioBroker.lovelace Variante
 
-![Number of Installations](http://iobroker.live/badges/lovelace-installed.svg)
-![Number of Installations](http://iobroker.live/badges/lovelace-stable.svg)
-[![NPM version](http://img.shields.io/npm/v/iobroker.lovelace.svg)](https://www.npmjs.com/package/iobroker.lovelace)
+## lovelace adapter for ioBroker
+Diese Variante enthält folgende Anpassungen und Änderungen (ev. ist die Liste nicht komplett):
 
-![Test and Release](https://github.com/ioBroker/iobroker.lovelace/workflows/Test%20and%20Release/badge.svg)
-[![Translation status](https://weblate.iobroker.net/widgets/adapters/-/lovelace/svg-badge.svg)](https://weblate.iobroker.net/engage/adapters/?utm_source=widget)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.lovelace.svg)](https://www.npmjs.com/package/iobroker.lovelace)
+* Zusätzliche Optionen in der Adapterconfig zum Einschränken des Bereichs für die automatische Devicegenerierung.
+* Eigene Icons
+* Fix für den bowser_mod Fehler der auf Mobilgeräten zu überlangen Popups führt.
+
 
 ## lovelace adapter for ioBroker
 
